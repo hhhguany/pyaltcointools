@@ -1,0 +1,2 @@
+# pyaltcointools
+修改自pybitcointools，用于altcoin的离线工具
